@@ -23,18 +23,16 @@ i can make the template i need with my notion.
   ![js](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 </div>
 
-<img align="center" width="100" />
+<img align="center" height="100" />
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/notion/ffffff" alt="Notion" width="90" /> 
+  <img src="https://cdn.simpleicons.org/notion/FAF8F1" alt="Notion" width="90" /> 
   <img width="50" />
 </div>
-<img align="center" width="120" />
+<img align="center" height="120" />
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
   <img width="12" />
@@ -46,6 +44,7 @@ i can make the template i need with my notion.
 <img width="30" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
