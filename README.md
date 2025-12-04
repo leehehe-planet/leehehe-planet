@@ -36,15 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<img width="20" />
-<h3>
-  🥑 Click on the icon
-  <a href="https://discord.gg/wwfMVNSj" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
-      width="52" 
-      height="40" 
-      alt="discord logo"
-    />
-  </a>
-</h3>
