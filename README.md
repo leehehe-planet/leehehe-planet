@@ -26,7 +26,7 @@ i can make the template i need with my notion.
 <img align="center" width="100" />
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="90" /> 
+  <img src="https://cdn.simpleicons.org/notion/ffffff" alt="Notion" width="90" /> 
   <img width="50" />
 </div>
 <img align="center" width="120" />
@@ -49,3 +49,4 @@ i can make the template i need with my notion.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+##
