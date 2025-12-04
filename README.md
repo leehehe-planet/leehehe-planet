@@ -2,6 +2,8 @@
 I want to develop an interactive web. <br>
 i can make the template i need with my notion.
 ##
+
+<img src="https://github.com/leehehe-planet/leehehe/blob/main/Lottie%20Lego.gif" width="300" />
 <div align="left">
   <p>🥒 The language I want to learn</p>
   
