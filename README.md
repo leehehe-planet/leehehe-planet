@@ -1,6 +1,9 @@
 ## Hi there 👋
-<div align="center">
-  <h3>🥒 The language I want to learn</h3>
+Hi, I want to develop an interactive web <br>
+You can make the template you need with your notion
+
+<div align="left">
+  <p>🥒 The language I want to learn</p>
   
   ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -11,8 +14,8 @@
 
 
 
-<div align="center">
-  <h3>🦢 My Stack</h3>
+<div align="left">
+  <p>🦢 SKILL</p>
   
   ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -22,12 +25,12 @@
 
 <img align="center" width="120" />
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="90" /> 
   <img width="50" />
 </div>
 <img align="center" width="120" />
-<div align="center">
+<div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -41,7 +44,7 @@
 </div>
 
 <img width="30" />
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
