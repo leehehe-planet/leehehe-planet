@@ -1,7 +1,7 @@
 ## Hi there 👋
-Hi, I want to develop an interactive web <br>
-You can make the template you need with your notion
-
+I want to develop an interactive web. <br>
+i can make the template i need with my notion.
+##
 <div align="left">
   <p>🥒 The language I want to learn</p>
   
@@ -13,7 +13,7 @@ You can make the template you need with your notion
 </div>
 
 
-
+##
 <div align="left">
   <p>🦢 SKILL</p>
   
@@ -23,7 +23,7 @@ You can make the template you need with your notion
   ![js](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 </div>
 
-<img align="center" width="120" />
+<img align="center" width="100" />
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/notion" alt="Notion" width="90" /> 
