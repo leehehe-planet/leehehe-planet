@@ -17,7 +17,7 @@ I can make the template I need with my notion.
 
 ##
 <div align="left">
-  <p>🦢  MY STACK L</p>
+  <p>🦢  MY STACK</p>
   
   ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
