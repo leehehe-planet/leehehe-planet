@@ -5,7 +5,7 @@ I can make the template I need with my notion.
 
 <img src="https://github.com/leehehe-planet/leehehe/blob/main/Lottie%20Lego.gif" width="300" />
 <div align="left">
-  <p>🥒 The language I want to learn</p>
+  <p>🥒 Here are the stack I want to learn </p>
   
   ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -17,7 +17,7 @@ I can make the template I need with my notion.
 
 ##
 <div align="left">
-  <p>🦢 SKILL</p>
+  <p>🦢  MY STACK L</p>
   
   ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
